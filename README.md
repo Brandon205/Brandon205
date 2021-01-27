@@ -1,10 +1,9 @@
 ### Hi, I'm Brandon check out my [portfolio][website]!
 
-## I am a Full Stack Web Developer willing to learn anything and everything!
-- 🔭 I’m currently working on bettering my Python skills
-- 🌱 I’m currently learning everything I can!
-- 📫 How to reach me: Feel free to message me on LinkedIn or send me an email at brandonblack02@gmail.com
-- ⚡ Fun fact: I like to play guitar in my free-time
+## I am a Full Stack Web Developer willing to learn anything!
+- 🔭 I’m currently working on my Python skills
+- 📫 Feel free to message me on LinkedIn or send me an email at brandonblack02@gmail.com
+- ⚡ Fun fact: I like to play guitar and go hiking in my free-time
 
 ### Contact me:
 
@@ -33,7 +32,7 @@
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Brandon205&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
-[website]: https://brandonblack.net
+[website]: https://brandonblack.dev
 [twitter]: https://twitter.com/brandonblack02
 [linkedin]: https://linkedin.com/in/brandonblack02
 [html]: https://developer.mozilla.org/en-US/docs/Web/HTML
