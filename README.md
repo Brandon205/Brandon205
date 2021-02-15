@@ -1,9 +1,8 @@
 ### Hi, I'm Brandon check out my [portfolio][website]!
 
 ## I am a Full Stack Web Developer willing to learn anything!
-- 🔭 I’m currently working on my Python skills
+- 🔭 I’m currently working on C# skills
 - 📫 Feel free to message me on LinkedIn or send me an email at brandonblack02@gmail.com
-- ⚡ Fun fact: I like to play guitar and go hiking in my free-time
 
 ### Contact me:
 
