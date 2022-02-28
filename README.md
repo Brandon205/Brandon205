@@ -1,7 +1,7 @@
 ### Hi, I'm Brandon check out my [portfolio][website]!
 
 ## I am a Full Stack Web Developer willing to learn anything!
-- 🔭 I’m currently working on C# skills
+- 🔭 I’m currently working on my React Native skills
 - 📫 Feel free to message me on LinkedIn or send me an email at brandonblack02@gmail.com
 
 ### Contact me:
